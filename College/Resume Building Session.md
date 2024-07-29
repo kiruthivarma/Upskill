@@ -12,7 +12,12 @@ Date: 29/07/2024 to 01/08/2024
 7. Strength
 8. Weakness (Negative + Positive sentence)
 	1. Tell negative sentence and then positive sentence
-	2. Don't forget to tell positive sentance
+	2. Don't forget to tell positive sentence
 9. Optional things
-		1. Hobbies ()
+		1. Hobbies (Don't brief more than 2 hobbies)
+		2. About Project
+			1. Project Name
+			2. What problem it solved
+			3. Skills applied & gained by the project
+			4. Summary of the Project
 10. Thank for the opportunity 
