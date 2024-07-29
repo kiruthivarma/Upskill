@@ -29,5 +29,3 @@ Date: 29/07/2024 to 01/08/2024
 4. Interest - Learning skills
 5. Hobbies
 6. Greetings
-
-Hi
