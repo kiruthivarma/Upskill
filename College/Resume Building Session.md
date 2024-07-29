@@ -1,6 +1,6 @@
 Date: 29/07/2024 to 01/08/2024
 
-### Self Introduction
+### Self Introduction (Checklist, Format)
 1. Name - Eg: I am Kiruthivarma, My name is
 2. City - Eg: I am from, I was born & rise up
 3. Schooling & College
@@ -21,3 +21,12 @@ Date: 29/07/2024 to 01/08/2024
 		3. Skills applied & gained by the project
 		4. Summary of the Project
 10. Thank for the opportunity
+
+### Resume Video (Format)
+1. Name
+2. About Current Education
+3. Technical skills - Learned skills
+4. Interest - Learning skills
+5. Hobbies
+6. Greetings
+
