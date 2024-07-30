@@ -22,10 +22,18 @@ Date: 29/07/2024 to 01/08/2024
 		4. Summary of the Project
 10. Thank for the opportunity
 
-### Resume Video (Format)
+### Resume Video (Checklist, Format)
 1. Name
 2. About Current Education
 3. Technical skills - Learned skills
 4. Interest - Learning skills
 5. Hobbies
 6. Greetings
+
+### ATS Resume Building
+#### Do's
+1. Use keywords related to job description
+2. Use standard heading
+
+#### Don'ts
+1. Complex texts
