@@ -21,9 +21,9 @@ The things I need to learn from scratch
 # Courses
 ### On Progress
 1. Cybersecurity & privacy
-2. 
+2. Google Cybersecurity 
 ### Completed
-1. Computer Networks & Internet Protocol
+4. Computer Networks & Internet Protocol
 
 # Goal
 I need to become highly skilled in Flutter and DevSecOps to build my empire...
