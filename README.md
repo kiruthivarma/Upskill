@@ -19,10 +19,11 @@ The things I need to learn from scratch
 3. DevSecOps
 
 # Courses
-### Completed
-1. Computer Networks & Internet Protocol
 ### On Progress
 1. Cybersecurity & privacy
+2. 
+### Completed
+1. Computer Networks & Internet Protocol
 
 # Goal
 I need to become highly skilled in Flutter and DevSecOps to build my empire...
