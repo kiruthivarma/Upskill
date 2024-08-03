@@ -23,4 +23,4 @@ The things I need to learn from scratch
 # Goal
 I need to be skilled enough at Flutter, DevSecOps to become a god version of mine...
 
-"A reason is undefined"
+"Creating something out of nothing"
