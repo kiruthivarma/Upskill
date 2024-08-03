@@ -17,13 +17,18 @@ The things I need to learn from scratch
 1. Flutter
 2. DSA
 3. DevSecOps
-
+# Hobbies
+Just to have some fun around the tech...
+1. Exploring new Open-source projects & Linux Distros
+2. Trying out new FOSS software and switching if like
+3. Contributing to Tech & Open-source by content creation
+4. Cybersecurity
 # Courses
 ### On Progress
 1. Cybersecurity & privacy
 2. Google Cybersecurity
 ### Completed
-4. Computer Networks & Internet Protocol
+1. Computer Networks & Internet Protocol
 
 # Goal
 I need to become highly skilled in Flutter and DevSecOps to build my empire...
