@@ -1,13 +1,13 @@
 # Skills
-## On Progress
-The Languages, Tools & Platforms I am currently learning...
+The Languages, Tools & Platforms I am skilled at and currently learning...
 ### To Advance
-The area where I need to advance
+The things where I am already skilled as an Intermediate & I now I need to advance
 1. Python
-2. Bash
-3. WordPress
-4. Linux
-5. Computer Networks
+2. Linux
+3. Bash
+4. WordPress
+5. Git & GitHub
+6. Computer Networks
 ## To Start
 The things I need to learn from scratch
 1. Flutter
