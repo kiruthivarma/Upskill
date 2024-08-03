@@ -19,14 +19,15 @@ The things I need to learn from scratch
 3. DevSecOps
 # Hobbies
 Just to have some fun around the tech...
-1. Exploring new Open-source projects & Linux Distros
-2. Trying out new FOSS software and switching if like
-3. Contributing to Tech & Open-source by content creation
-4. Cybersecurity
+1. Exploring new Open-source projects, FOSS & Linux Distros
+2. Contributing to Open-source & FOSS by content creation
+3. Cybersecurity
 # Courses
 ### On Progress
 1. Cybersecurity & privacy
-2. Google Cybersecurity
+2. AWS Essentials
+### To Start
+1. Google Cybersecurity
 ### Completed
 1. Computer Networks & Internet Protocol
 
