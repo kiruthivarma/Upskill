@@ -1,6 +1,7 @@
 *"It's always better to start with something*
 		*than wait for something"*
 							*- Kiruthivarma S*
+							
 # Skills
 The Languages, Tools & Platforms I am skilled at and currently learning...
 1. WordPress
