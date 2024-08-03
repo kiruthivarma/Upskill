@@ -21,7 +21,7 @@ The things I need to learn from scratch
 # Courses
 ### On Progress
 1. Cybersecurity & privacy
-2. Google Cybersecurity 
+2. Google Cybersecurity
 ### Completed
 4. Computer Networks & Internet Protocol
 
