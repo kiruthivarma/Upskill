@@ -1,3 +1,6 @@
+*"It's always better to start with something*
+		*than wait for something"*
+							*- Kiruthivarma S*
 # Skills
 The Languages, Tools & Platforms I am skilled at and currently learning...
 1. WordPress
@@ -12,11 +15,12 @@ The things where I am already skilled as an Intermediate & Now I need to advance
 The things I need to learn from scratch
 1. Flutter
 2. DSA
-3. AWS Cloud
-4. DevOps
+3. DevSecOps
 
 # Courses
 ### On Progress
 
 # Goal
-A 
+I need to be skilled enough at Flutter, DevSecOps to become a god version of mine...
+
+"A reason is undefined"
