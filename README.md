@@ -3,15 +3,15 @@
 							*- Kiruthivarma S*
 							
 # Skills
-The Languages, Tools & Platforms I am skilled at and currently learning...
+The Languages, Tools & Platforms I am skilled at...
 1. WordPress
 2. Git & GitHub
+3. Linux File systems & Administration 
 ### To Advance
 The things where I am already skilled as an Intermediate & Now I need to advance
 1. Python
-2. Linux
-3. Bash
-4. Computer Networks
+2. Bash Scripting for Automation
+3. Computer Networks
 ### To Start
 The things I need to learn from scratch
 1. Flutter
