@@ -6,7 +6,7 @@
 The Languages, Tools & Platforms I am skilled at...
 1. WordPress
 2. Git & GitHub
-3. Linux File systems & Administration 
+3. Linux File systems & Administration (Debian)
 ### To Advance
 The things where I am already skilled as an Intermediate & Now I need to advance
 1. Python
