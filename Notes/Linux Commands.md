@@ -5,8 +5,8 @@ Highly used Linux commands
 Usage: Print to screen
 
 Example:-
-Input -> `echo Hi`
-Output -> `Hi`
+ `echo Hi`
+ `Hi`
 #### 2. ls
 Usage: List files & directories on that location
 
