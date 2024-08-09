@@ -4,9 +4,9 @@ Highly used Linux commands
 #### 1. echo
 Usage: Print to screen
 
-Example:-
- `echo Hi`
- `Hi`
+Example:- 
+`echo Hi`
+`Hi`
 #### 2. ls
 Usage: List files & directories on that location
 
