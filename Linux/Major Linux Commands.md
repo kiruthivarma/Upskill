@@ -69,6 +69,8 @@ Out: `Hi`
 **Other Usages:-**
 1. To add contents to a existing file. Use the `>` flag.
 		Example: `cat > file.txt`
+
+10.
 ### Tips
 1. To execute multiple commands in a single command, use `;` at the end of each command.
 		Example: `cd new_dir; mkdir foldername; pwd`
