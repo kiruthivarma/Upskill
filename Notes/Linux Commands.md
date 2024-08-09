@@ -1,5 +1,5 @@
 Highly used Linux commands
-## Kernel Commands
+## User-space Commands
 
 ### 1. echo
 Usage: Print to screen
