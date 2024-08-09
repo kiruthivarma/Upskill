@@ -29,9 +29,9 @@ Input -> `pwd`
 Output -> `/path/of/current/directory`
 
 #### 5. mkdir
-Usage: Create directory 
+Usage: Create directory or file to the specified path
 
 Example:-
-Input -> `echo Hi`
-Output -> `Hi`
+Input -> `mkdir /path/of/newfolder`
+Output -> `No output on screen`
 
