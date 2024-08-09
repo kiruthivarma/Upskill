@@ -4,7 +4,6 @@ Highly used Linux commands
 #### 1. echo
 Usage: Print to screen
 
-Example:- 
 In: `echo Hi`
 Out: `Hi`
 #### 2. ls
