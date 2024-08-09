@@ -1,7 +1,7 @@
 Highly used Linux commands
 ## Kernel Commands
 
-#### 1. echo
+### 1. echo
 Usage: Print to screen
 
 In: `echo Hi`
