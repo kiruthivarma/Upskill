@@ -1,3 +1,7 @@
-To print text on screen
+To print text on screen:-
 
+```
 <?php
+echo "hi";
+?>
+```
