@@ -3,3 +3,8 @@ Before starting:-
 2. Why DevOps is used by companies
 3. Understand and create a Road map
 4. Research Job Descriptions & Apply!
+
+## Roadmap
+1. Operating System - Ubuntu
+2. Scripting - Python
+3. Version Control - Git
