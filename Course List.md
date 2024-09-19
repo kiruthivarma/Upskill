@@ -10,7 +10,9 @@
 4. The Complete Bash/Shell Developer Course
 
 ### Computer Networks
-1. 
+1. The Complete Networking Fundamentals Course. Your CCNA start
+2. Cisco CCNA 200-301 – The Complete Guide to Getting Certified
+
 ## DevOps
 1. DevOps Beginners to Advanced | Decoding DevOps with Projects
 2. Docker for the Absolute Beginner – Hands On – DevOps
