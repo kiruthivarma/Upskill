@@ -15,8 +15,9 @@ The things where I am already skilled as an Intermediate & Now I need to advance
 ### To Start
 The things I need to learn from scratch
 1. Flutter
-2. DSA
-3. DevSecOps
+2. Java
+3. DSA
+4. DevSecOps
 # Hobbies
 Just to have some fun around the tech...
 1. Exploring new Open-source projects, FOSS & Linux Distros
