@@ -14,9 +14,11 @@
 ## Udemy
 1. Cisco CCNA Packet Tracer Ultimate labs: CCNA 200-301 labs (Nov 24)
 
+## International Certs
+1. ISC2 Certified in Cybersecurity 
+2. AWS Cloud Cert
 
 ## Deadline Bay
-
 Sept 24 - Using Python for Automation
 
 Oct 24 - Python Zero to Hero, Google IT Automation with Python Professional Certificate
@@ -24,5 +26,7 @@ Oct 24 - Python Zero to Hero, Google IT Automation with Python Professional Cert
 Nov 24 - Cisco CCNA Packet Tracer Ultimate labs: CCNA 200-301 labs
 
 Dec 24 - Google Cybersecurity Professional Certificate, Getting Started with DevOps
+
+Jan 24 - ISC2 Certified in Cybersecurity 
 
 Feb 24 - Get Ahead in DevSecOps
