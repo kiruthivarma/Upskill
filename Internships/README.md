@@ -1,5 +1,6 @@
-## Checklist to Register
-1. 
+## To do's
+1. Software Engineering Winter Intern, 2025
+2. Application Engineering Intern, Winter 2025
 
 ## Registered Internships
 Below are the internships registered by me to prepare & participate...
