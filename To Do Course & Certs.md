@@ -5,7 +5,7 @@
 4. Google Project Management: Professional Certificate (Mar 24)
 5. IBM Product Manager Professional Certificate (Optional)
 
-## Linkedin Learning
+## LinkedIn Learning
 1. Using Python for Automation (Sept 24)
 2. Getting Started with DevOps (Dec 24)
 3. Getting Started with Kubernetes (Optional)
