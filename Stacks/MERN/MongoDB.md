@@ -10,3 +10,11 @@ To create collection:-
 ```
 create collection collection-name
 ```
+To find a new one:-
+```
+find
+```
+
+```
+find one
+```
